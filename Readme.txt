@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+SI FEST 2021 Website Source Code
+By IT Development SI FEST 2021
 
-Template Name: TheEvent
 Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
